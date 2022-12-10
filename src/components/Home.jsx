@@ -3,6 +3,8 @@ import Header from './Header'
 import team_img from '../images/team.jpeg';
 import Services from './Services';
 import './Home.css';
+import MoreInfo from './MoreInfo';
+import BrockenSection from './BrockenSection';
 
 export default function Home() {
   return (
@@ -51,6 +53,8 @@ export default function Home() {
                     </div>
                 </div>
         <Services/>
+        <MoreInfo/>
+        <BrockenSection/>
     </div>
   )
 }

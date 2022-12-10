@@ -28,7 +28,7 @@ export default function Services() {
                             </div>
                             <div class="featured-content">
                                 <div class="featured-title">
-                                    <h5>Water Heating &amp; Cooling</h5>
+                                    <h5>Domestic Installation &amp; Tubing</h5>
                                 </div>
                                 <div class="featured-desc">
                                     <p>Air-source heat pump system that combines heating, cooling &amp; heating.</p>
@@ -47,7 +47,7 @@ export default function Services() {
                             </div>
                             <div class="featured-content">
                                 <div class="featured-title">
-                                    <h5>Plumbing Design</h5>
+                                    <h5>Electrical Motors Installation, Servicing &amp; Starter Boards Designing</h5>
                                 </div>
                                 <div class="featured-desc">
                                     <p>Work to do with taps or sinks, toilet and sanitary work or any others.</p>
@@ -66,7 +66,7 @@ export default function Services() {
                             </div>
                             <div class="featured-content">
                                 <div class="featured-title">
-                                    <h5>General Plumbing</h5>
+                                    <h5>LT AND HT Line Construction</h5>
                                 </div>
                                 <div class="featured-desc">
                                     <p>Marble is still king in terms of aesthetics and in high-end new development.</p>

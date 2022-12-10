@@ -47,8 +47,8 @@ export default function Header() {
                         <div className="site-navigation d-flex flex-row">
                            
                             <div className="site-branding mr-auto">
-                                <a className="home-link" href="index.html" title="Cleaning" rel="home">
-                                    <img width="183" height="42" id="logo-img" className="img-center" src="images/logo-plumber.svg" alt="logo-img"/>
+                                <a className="home-link" href="#" title="Cleaning" rel="home">
+                                    <h3>Conductive Solutions Electrical Engineering</h3>
                                 </a>
                             </div>
                             <div className="btn-show-menu-mobile menubar menubar--squeeze">
