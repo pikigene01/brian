@@ -1,6 +1,8 @@
 import React from 'react'
 import Header from './Header'
 import team_img from '../images/team.jpeg';
+import Services from './Services';
+import './Home.css';
 
 export default function Home() {
   return (
@@ -48,6 +50,7 @@ export default function Home() {
                         </div>
                     </div>
                 </div>
+        <Services/>
     </div>
   )
 }

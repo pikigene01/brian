@@ -12,7 +12,7 @@ export default function Header() {
                     </div>
                     <div className="top_bar_contact_item">
                         <div className="top_bar_icon"><i className="fa fa-envelope-o"></i>
-                        </div><a href="mailto:info@example.com">info@example.com</a>
+                        </div><a href="mailto:takundabrian94@gmail.com">takundabrian94@gmail.com</a>
                     </div>
                     <div className="top_bar_contact_item top_bar_social ml-auto p-0">
                         <ul className="social-icons d-flex">
